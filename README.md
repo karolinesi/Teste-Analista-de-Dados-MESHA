@@ -4,6 +4,7 @@
 - Link arquivos GoogleDrive: https://drive.google.com/file/d/19YlyPRAPtWLGTQGg04-Ske4N7E30SFBq/view?usp=sharing
 - Link dashboard online: https://app.powerbi.com/view?r=eyJrIjoiY2Y2OTZhOWItZWI3Ny00N2MzLWIxMmYtMjVmNzNhMmEwZDE3IiwidCI6ImFhZWE0MGM5LTcyZTYtNDQ3Mi04MmE2LWQ5ODZlZmZjZTc1NCJ9&embedImagePlaceholder=true
 
+----------------------------------------------------------------------------------------------------------------
   
 Critérios avaliadas:
 - Uso de Funções DAX
