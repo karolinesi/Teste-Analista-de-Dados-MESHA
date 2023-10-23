@@ -1,35 +1,18 @@
-# Teste Analista de Dados
+# Análise Microdados ENEM 2020
 
 ### Resolução
 - Link arquivos GoogleDrive: https://drive.google.com/file/d/19YlyPRAPtWLGTQGg04-Ske4N7E30SFBq/view?usp=sharing
 - Link dashboard online: https://app.powerbi.com/view?r=eyJrIjoiY2Y2OTZhOWItZWI3Ny00N2MzLWIxMmYtMjVmNzNhMmEwZDE3IiwidCI6ImFhZWE0MGM5LTcyZTYtNDQ3Mi04MmE2LWQ5ODZlZmZjZTc1NCJ9&embedImagePlaceholder=true
 
+![image](https://github.com/karolinesi/Teste-Analista-de-Dados-MESHA/assets/65085217/f8704806-5128-47fe-bb78-d1edcb32754d)
+
+![image](https://github.com/karolinesi/Teste-Analista-de-Dados-MESHA/assets/65085217/2a2eee83-9b59-4658-b205-3be32911ccb6)
+
+
+
 ----------------------------------------------------------------------------------------------------------------
   
-Critérios avaliadas:
-- Uso de Funções DAX
-- Documentação das medidas
-- ETL
-- Modelagem dimensional dos dados
-
-### Desejáveis
-- Esquema Estrela
-- Criação de visuais com indicadores além dos requisitados.
-- SQL (Caso deseje modelar os dados em algum banco)
-
-
-### Steps:
-
-1. Realizar um Fork desse projeto
-2. Realizar a modelagem dimensional da base (Pode ser dentro do próprio PowerBI ou outra ferramenta de ETL)
-    - A base está disponível para download [clicando aqui](https://download.inep.gov.br/microdados/microdados_enem_2020.zip).
-    - Após descompactar a paste, o Arquivo com a base encontra-se no diretório microdados_enem_2020/DADOS/MICRODADOS_ENEM_2020.csv
-    - A documentação necessária sobre os campos da base está disponível nos demais diretórios dentro da pasta descompactada.
-4. Disponibilizar o link do seu repositório para posterior avaliação
-
-
-### Levantar Indicadores
-#### Responder às seguintes perguntas:
+#### Perguntas respondidas:
 1. Qual a escola com a maior média de notas?
 2. Qual o aluno com a maior média de notas e o valor dessa média?
 3. Qual a média geral?
